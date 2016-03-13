@@ -2,6 +2,10 @@
 # mod_proxy_gluster
 Modified mod_proxy_gluster supporting large files, ISO8601 times, and icons in much the same manner as the normal mod_autoindex from Apache. This module has been tested on both Apache 2.2 and 2.4. 
 
+# New location
+
+This code has since been migrated to the official Gluster project GitHub area. See https://github.com/gluster/mod_proxy_gluster for the latest version.
+
 # SYNOPSIS
 
 mod_proxy and related modules implement a proxy/gateway for Apache HTTP Server, supporting a number of popular protocols as well as several different load balancing algorithms.
